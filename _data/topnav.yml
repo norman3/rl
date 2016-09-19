@@ -1,0 +1,29 @@
+topnav:
+  - title: MC
+    group: "Chapter. 1"
+    url: /docs/chapter01
+  - title: DP
+    group: "Chapter. 2"
+    url: /docs/chapter02
+  - title: SP
+    group: "Chapter. 3"
+    url: /docs/chapter03
+  - title: MDP
+    group: "Chapter. 4"
+    url: /docs/chapter04
+  - title: FHMDP
+    group: "Chapter. 5"
+    url: /docs/chapter05
+  - title: IHDRMDP
+    group: "Chapter. 6"
+    url: /docs/chapter06
+  - title: Example
+    group: "Chapter. 7"
+    url: /docs/chapter07
+  - title: MC Approx.
+    group: "Chapter. 8"
+    url: /docs/chapter08
+  - title: RL
+    group: "Chapter. 9"
+    url: /docs/chapter09
+
